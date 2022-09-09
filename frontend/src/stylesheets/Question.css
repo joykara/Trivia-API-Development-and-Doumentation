@@ -6,6 +6,7 @@
 .categories-list {
   flex-basis: 25%;
   flex-shrink: 2;
+  cursor: pointer;
 }
 
 .categories-list > form {
