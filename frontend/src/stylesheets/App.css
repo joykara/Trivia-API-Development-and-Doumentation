@@ -1,12 +1,13 @@
 .App-header {
   background-color: #222;
-  color: white;
+  color: rgb(241, 235, 235);
   display: flex;
   justify-content: space-between;
   height: 75px;
   padding: 20px;
   padding-right: 40%;
   padding-left: 5%;
+  cursor: pointer;
 }
 
 .App-header > h1 {
